@@ -1,3 +1,6 @@
 body{
-    background-image: url(BackgroundImage.jpg);
+    background-color: aqua;
+    background: url(BackgroundImage.jpg) 50% no-repeat ,linear-gradient( to right ,#CAC4D1 10%, #9795D1 85%, #645DD1 );
+    
+
 }
