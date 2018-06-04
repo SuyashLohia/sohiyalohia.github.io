@@ -106,6 +106,7 @@ header{
 .icon a:hover{
 	color: black;
 }
-h1{
-	font-size: 1000px;
+#soon{
+	width: 50%;
+	height: 500px;
 }
